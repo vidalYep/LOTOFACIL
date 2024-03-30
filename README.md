@@ -13,32 +13,18 @@ O sistema LOTOFÁCIL possui as seguintes funcionalidades:
 Menu interativo para a loteria, permitindo apostas diferentes.
 Regras específicas para cada tipo de aposta.
 Validação de entrada para garantir que os valores inseridos estejam dentro das faixas permitidas.
-Como Rodar
+
+# Como Rodar
 Clone o repositório para sua máquina local:
-bash
+
 Copy code
-git clone https://github.com/seu-usuario/repositorio-lotofacil.git
-Compile os arquivos Java:
-css
-Copy code
-javac Main.java
-Execute o programa:
-css
-Copy code
+1 - git clone https://github.com/seu-usuario/repositorio-lotofacil.git
+
+2 - Execute o programa:
 java Main
-Menu LOTOFÁCIL
-less
-Copy code
-Menu LOTOFÁCIL:
-1) Apostar de 0 a 100
-2) Apostar de A à Z
-3) Apostar em par ou ímpar
-0) Sair
-Versão do JDK
+
+# Versão do JDK
 O projeto foi desenvolvido e testado utilizando JDK 8.
 
-Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, relatar problemas ou abrir pull requests.
-
-Autor
+# Autor
 Samuel Vidal
