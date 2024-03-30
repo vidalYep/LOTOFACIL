@@ -17,7 +17,7 @@ Validação de entrada para garantir que os valores inseridos estejam dentro das
 # Como Rodar
 Clone o repositório para sua máquina local:
 
-Copy code
+Copy code  
 1 - git clone https://github.com/seu-usuario/repositorio-lotofacil.git
 
 2 - Execute o programa:
